@@ -61,6 +61,7 @@ export const rgshowsScraper = makeSourcerer({
   id: 'rgshows',
   name: 'RGShows',
   rank: 176,
+  disabled: true, // source is currently very unreliable, re-enable when fixed
   flags: [],
   scrapeMovie: comboScraper,
   scrapeShow: comboScraper,
