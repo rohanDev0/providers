@@ -13,7 +13,7 @@ import { autoembedScraper } from '@/providers/sources/autoembed';
 import { dopeboxEmbeds, dopeboxScraper } from '@/providers/sources/dopebox/index';
 import { watchanimeworldScraper } from '@/providers/sources/watchanimeworld';
 import { ee3Scraper } from '@/providers/sources/ee3';
-import { fsharetvScraper } from '@/providers/sources/fsharetv';gi
+import { fsharetvScraper } from '@/providers/sources/fsharetv';
 import { fsOnlineEmbeds, fsOnlineScraper } from '@/providers/sources/fsonline/index';
 import { insertunitScraper } from '@/providers/sources/insertunit';
 import { mp4hydraScraper } from '@/providers/sources/mp4hydra';
